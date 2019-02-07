@@ -2,3 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
+
+header h1 {
+
+    width: 800px;
+    font-size: 60px;
+}
