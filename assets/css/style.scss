@@ -12,7 +12,6 @@ header {
     font-family: 'Cantera'; 
     background: url(https://athemetanis.github.io/vesmirny-hon-za-slevami/assets/background.jpg) 0 0 repeat;
     border-bottom: solid 1px #275da1;
-    
 }
 header h1 {
 
@@ -20,14 +19,12 @@ header h1 {
     font-size: 110px;
     color: #34383a;
 }
-
 header a.button {
 
     position: absolute;
     top: 10px;
     right: -40px;
     background: transparent url(https://athemetanis.github.io/vesmirny-hon-za-slevami/assets/download.png) 0 0 no-repeat;
-
 }
 a.button {
     font-family: 'Cantera';
@@ -35,6 +32,9 @@ a.button {
     height: 120px;
     padding-top: 40px;
     font-size: 40px;
-   
-
+    color: ##34383a;
+}
+a.button small {
+    display: block;
+    font-size: 40px;
 }
