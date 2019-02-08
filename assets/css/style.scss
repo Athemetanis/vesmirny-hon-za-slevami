@@ -26,6 +26,11 @@ header a.button {
     right: -40px;
     background: transparent url(https://athemetanis.github.io/vesmirny-hon-za-slevami/assets/download.png) 0 0 no-repeat;
 }
+
+a.button small {
+    display: block;
+    font-size: 30px;
+}
 a.button {
     font-family: 'Cantera';
     width: 200px;
@@ -34,7 +39,4 @@ a.button {
     font-size: 40px;
     color: ##34383a;
 }
-a.button small {
-    display: block;
-    font-size: 40px;
-}
+
