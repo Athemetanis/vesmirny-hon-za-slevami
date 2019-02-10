@@ -13,8 +13,16 @@
 }
 @media only screen and (max-width: 768px){
     .inner h1 {
-        font-size: 48px
+        font-size: 48px;
     }
+    header a.button{
+        position: relative;
+        top: 0px;
+        right: 0px;
+        color:#34383a;
+          background: #ebe8df none 0 0 no-repeat;
+            
+    
 }
 @font-face {
     font-family: 'Cantera'; /*a name to be used later*/
