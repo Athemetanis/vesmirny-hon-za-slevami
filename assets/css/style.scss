@@ -76,3 +76,9 @@ body {
     padding-top: 30px;
     border-top: solid 10px #d9d5c6;
 }
+#main-content h2::before {
+    padding-right: 0.3em;
+    margin-left: -1.5em;
+    content: "";
+    color: #34383a;
+}
