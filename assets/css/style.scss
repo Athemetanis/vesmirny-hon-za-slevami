@@ -39,7 +39,7 @@
 }
 @font-face {
     font-family: 'Rakesly_text'; /*a name to be used later*/
-    src: url('https://athemetanis.github.io/vesmirny-hon-za-slevami/assets/rakesly%20el.ttf'); 
+    src: url('https://athemetanis.github.io/vesmirny-hon-za-slevami/assets/rakesly%20lt.ttf'); 
 }
 header {
     padding-top: 11px;
@@ -114,4 +114,7 @@ body {
     color: #34383a;
     background: transparent url(https://athemetanis.github.io/vesmirny-hon-za-slevami/assets/before.png) 0 0 no-repeat;
     padding-left: 22px;
+}
+strong{
+font-family: 'Rakesly_nadpis';
 }
