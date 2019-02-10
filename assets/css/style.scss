@@ -1,14 +1,17 @@
 ---
 ---
 
+
+
+
+@import "{{ site.theme }}";
+
 @media only screen and (min-width: 768px) and (max-width: 959px) {
     header h1 {
         width: 500px;
     }
 }
 
-
-@import "{{ site.theme }}";
 @font-face {
     font-family: 'Cantera'; /*a name to be used later*/
     src: url('https://athemetanis.github.io/vesmirny-hon-za-slevami/assets/Canter%20Bold.otf'); 
